@@ -1,4 +1,4 @@
-# Linux-IPC--Pipes
+zcd# Linux-IPC--Pipes
 Linux-IPC-Pipes
 
 
@@ -87,7 +87,7 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT:
-<img width="532" height="537" alt="Screenshot 2026-09-08 202845" src="https://github.com/user-attachments/assets/31df0c3e-dc77-4d77-95e1-31ce2e577f73" />
+<img width="475" height="188" alt="Screenshot 2026-09-17 090037" src="https://github.com/user-attachments/assets/f491ac89-ee4c-4d6f-82b7-dbe14ecd83f4" />
 
 
 
@@ -178,7 +178,7 @@ void client() {
 
 
 ## OUTPUT:
-<img width="426" height="345" alt="Screenshot 2026-09-08 203321" src="https://github.com/user-attachments/assets/46499941-53e2-48ea-8902-e6df3ac5d658" />
+<img width="500" height="323" alt="Screenshot 2026-09-17 091433" src="https://github.com/user-attachments/assets/a37ab340-8d0e-4cf8-9601-719347989db3" />
 
 
 
