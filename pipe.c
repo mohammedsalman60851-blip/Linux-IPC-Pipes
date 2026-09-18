@@ -1,4 +1,4 @@
-/#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h> 
 #include <sys/stat.h> 
@@ -72,4 +72,4 @@ void client(int wfd, int rfd) {
     write(1, buff, n);
 }
 
-/ C Program that illustrate communication between two process using unnamed pipes
+
